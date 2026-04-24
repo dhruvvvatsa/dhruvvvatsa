@@ -1,15 +1,11 @@
 <center>
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">Building My Web Skills: HTML, CSS, and JavaScript in Progress</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvvvatsa&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvvvatsa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dhruvvvatsa" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvvvatsa?logo=twitter&style=for-the-badge" alt="dhruvvvatsa" /></a> </p>
 
-- 🌱 I’m currently learning **javascript, React**
-
-- 📫 How to reach me **work.dhruvv1@gmail.com**
+- 📫reach out me **dhruvvatsa593@gmail.com**
 
 - ⚡ Fun fact **I Draw somwtimes**
 
